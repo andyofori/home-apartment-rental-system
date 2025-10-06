@@ -1,8 +1,8 @@
-# 🏠 Home & Apartment Rental System
+# Home & Apartment Rental System
 
 A comprehensive web-based platform for property management and rental search in Ghana. This system connects landlords with potential tenants, streamlining the entire rental process from property listing to maintenance tracking.
 
-## 📋 Project Information
+## Project Information
 
 **Course:** Software Engineering  
 **Institution:** Valley View University  
@@ -11,7 +11,7 @@ A comprehensive web-based platform for property management and rental search in 
 **Project Duration:** 5 Weeks (5 Sprints)  
 **Date Started:** September 24, 2025
 
-## 📂 Project Structure
+## Project Structure
 
 home-apartment-rental-system/
 ├── frontend/
@@ -40,7 +40,7 @@ home-apartment-rental-system/
 └── LICENSE
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation Steps
 
@@ -108,7 +108,7 @@ cd frontend
 php -S localhost:8000
 
 
-## 🔄 Git Workflow
+## Git Workflow
 
 ### Branch Strategy
 
@@ -151,7 +151,7 @@ git commit -m "fix bug"
 
 
 
-## 🤝 Contributing
+## Contributing
 
 ### For Team Members
 
